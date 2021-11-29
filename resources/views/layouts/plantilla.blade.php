@@ -7,5 +7,5 @@
     <title>@yield('title')</title>
 </head>
 <body>
-    @yield('content') //esto es un comentario
+    @yield('content')
 </body>
